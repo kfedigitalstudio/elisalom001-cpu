@@ -9,16 +9,16 @@ I enjoy working on projects that solve practical problems and learning new techn
 ## Technologies I use
 
 Python · TypeScript · JavaScript · Dart · SQL  
-React · Next.js · Flutter · FastAPI  
+React · Next.js · Flutter · FastAPI · Pyodide  
 PostgreSQL · Supabase · Firebase  
 Cloudflare · Docker · Git · GitHub
 
 ## Projects
 
 ### Professional Workflow Intake API
-Python/FastAPI service that converts unstructured professional-service intake notes into structured contacts, dates, deadlines, priorities, and action items. Includes Pydantic validation, REST/JSON endpoints, automated Pytest coverage, and Docker support.
+Python/FastAPI project that converts unstructured professional-service intake notes into structured contacts, dates, deadlines, priorities, and action items. Includes Pydantic validation, REST/JSON endpoints, automated Pytest coverage, Docker support, and a browser-based Python demo deployed with GitHub Pages and Pyodide.
 
-[View the project](https://github.com/kfedigitalstudio/professional-workflow-intake-api)
+[Live Demo](https://kfedigitalstudio.github.io/professional-workflow-intake-api/) · [Source Code](https://github.com/kfedigitalstudio/professional-workflow-intake-api)
 
 ## A little about me
 
