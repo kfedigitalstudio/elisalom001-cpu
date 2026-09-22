@@ -6,13 +6,19 @@ My background is in systems engineering and applied data science, and lately I�
 
 I enjoy working on projects that solve practical problems and learning new technologies along the way.
 
-
 ## Technologies I use
 
 Python · TypeScript · JavaScript · Dart · SQL  
-React · Next.js · Flutter  
+React · Next.js · Flutter · FastAPI  
 PostgreSQL · Supabase · Firebase  
 Cloudflare · Docker · Git · GitHub
+
+## Projects
+
+### Professional Workflow Intake API
+Python/FastAPI service that converts unstructured professional-service intake notes into structured contacts, dates, deadlines, priorities, and action items. Includes Pydantic validation, REST/JSON endpoints, automated Pytest coverage, and Docker support.
+
+[View the project](https://github.com/kfedigitalstudio/elisalom001-cpu/tree/main/professional-workflow-intake-api)
 
 ## A little about me
 
