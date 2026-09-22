@@ -18,7 +18,7 @@ Cloudflare · Docker · Git · GitHub
 ### Professional Workflow Intake API
 Python/FastAPI service that converts unstructured professional-service intake notes into structured contacts, dates, deadlines, priorities, and action items. Includes Pydantic validation, REST/JSON endpoints, automated Pytest coverage, and Docker support.
 
-[View the project](https://github.com/kfedigitalstudio/elisalom001-cpu/tree/main/professional-workflow-intake-api)
+[View the project](https://github.com/kfedigitalstudio/professional-workflow-intake-api)
 
 ## A little about me
 
